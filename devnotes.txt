@@ -1,0 +1,31 @@
+NOTES ON JAN 5:
+- it works!! I can add ML models, propagate bounds, add inequalities, specify feature space, etc.
+- and, it gives the same results as the simple method
+- many times faster than simple method (when presolve is disabled)
+
+NOTES ON JAN 6:
+- Gauss-Seidel implemented!
+- added MLPRegressor and MLPClassifier
+- created gurobi_ml_ext.py, which contains MLPClassifer implementation using my own softmax
+- tried adding decision tree classifier. seems like you can just use the same method as decision tree regressor, I checked the source code of gurobi ml
+
+NOTES ON JAN 14:
+- added support for verbosity and other params
+- refactored ml opt code by having a single registry
+- added the rest of the ml models
+- almost finished a significant refactoring of the code to the AbstractMarkov class
+
+NOTES ON JAN 15:
+- finished refactoring to AbstractMarkov
+- added MarkovReach and MarkovHitting, and played around with them a bit
+- added feasibility check
+
+NOTES ON JAN 18:
+- added DecisionRules model
+
+NOTES ON JAN 19:
+- created add_decision_rules_constr function, which encodes DecisionRules into gurobi ml
+
+NOTES ON JAN 26:
+- feasibility check is finally working
+- finished writing tutorials and docs

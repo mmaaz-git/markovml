@@ -1,0 +1,1 @@
+- for state scaling experiment, n=100, direct method, we have 250018 continuous, 1506 integer (10 binary)

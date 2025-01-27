@@ -1,0 +1,161 @@
+,n_layers,n_neurons,instance,method,status,time,objective,message
+0,1,5,0,direct,error,1200.0182421207428,,Optimization failed with status code 9
+1,1,5,0,decomp,optimal,1.5751280784606934,107.11467748407496,
+2,1,5,1,direct,error,1200.0076532363892,,Optimization failed with status code 9
+3,1,5,1,decomp,optimal,1.6188831329345703,284.94978470158736,
+4,1,5,2,direct,error,1200.0100681781769,,Optimization failed with status code 9
+5,1,5,2,decomp,optimal,1.5372347831726074,180.62263391604912,
+6,1,5,3,direct,error,1200.0156271457672,,Optimization failed with status code 9
+7,1,5,3,decomp,optimal,1.3175537586212158,123.32752625793208,
+8,1,5,4,direct,error,1200.0126893520355,,Optimization failed with status code 9
+9,1,5,4,decomp,optimal,1.421191930770874,139.89555491755507,
+10,1,5,5,direct,error,1200.0428314208984,,Optimization failed with status code 9
+11,1,5,5,decomp,optimal,1.4175927639007568,119.54177587813795,
+12,1,5,6,direct,error,1200.0092384815216,,Optimization failed with status code 9
+13,1,5,6,decomp,optimal,1.3847277164459229,159.6089996943928,
+14,1,5,7,direct,error,1200.0267012119293,,Optimization failed with status code 9
+15,1,5,7,decomp,optimal,1.574355125427246,103.15828419579657,
+16,1,5,8,direct,error,1200.1160111427307,,Optimization failed with status code 9
+17,1,5,8,decomp,optimal,1.409672737121582,127.11788011865566,
+18,1,5,9,direct,error,1200.0037515163422,,Optimization failed with status code 9
+19,1,5,9,decomp,optimal,1.3440070152282715,128.58751867218479,
+20,1,10,0,direct,error,1200.0208113193512,,Optimization failed with status code 9
+21,1,10,0,decomp,optimal,4.864600419998169,96.86874406224129,
+22,1,10,1,direct,error,1200.0149879455566,,Optimization failed with status code 9
+23,1,10,1,decomp,optimal,7.032533645629883,82.49977336089009,
+24,1,10,2,direct,error,1200.027105331421,,Optimization failed with status code 9
+25,1,10,2,decomp,optimal,7.961308002471924,110.27908484342896,
+26,1,10,3,direct,error,1200.003748178482,,Optimization failed with status code 9
+27,1,10,3,decomp,optimal,4.441920518875122,161.95125617159226,
+28,1,10,4,direct,error,1200.022891998291,,Optimization failed with status code 9
+29,1,10,4,decomp,optimal,6.4270994663238525,142.8379505150875,
+30,1,10,5,direct,error,1200.0084035396576,,Optimization failed with status code 9
+31,1,10,5,decomp,optimal,3.4852967262268066,98.59266251502086,
+32,1,10,6,direct,error,1200.0088143348694,,Optimization failed with status code 9
+33,1,10,6,decomp,optimal,11.088990688323975,99.40730320500592,
+34,1,10,7,direct,error,1200.0061764717102,,Optimization failed with status code 9
+35,1,10,7,decomp,optimal,6.696928977966309,114.04400043281504,
+36,1,10,8,direct,error,1200.0246472358704,,Optimization failed with status code 9
+37,1,10,8,decomp,optimal,11.526708364486694,158.2464080262259,
+38,1,10,9,direct,error,1200.013697385788,,Optimization failed with status code 9
+39,1,10,9,decomp,optimal,7.0361573696136475,80.14793599202842,
+40,1,15,0,direct,error,1200.019443511963,,Optimization failed with status code 9
+41,1,15,0,decomp,optimal,32.08227896690369,120.50273993556048,
+42,1,15,1,direct,error,1200.004962682724,,Optimization failed with status code 9
+43,1,15,1,decomp,optimal,24.05034112930298,115.38764459640754,
+44,1,15,2,direct,error,1200.0553271770477,,Optimization failed with status code 9
+45,1,15,2,decomp,optimal,30.93779683113098,124.20603648841436,
+46,1,15,3,direct,error,1200.0230572223663,,Optimization failed with status code 9
+47,1,15,3,decomp,optimal,61.5372633934021,136.74898795769744,
+48,1,15,4,direct,error,1200.0119450092316,,Optimization failed with status code 9
+49,1,15,4,decomp,optimal,84.91514277458191,222.80775769912083,
+50,1,15,5,direct,error,1200.0018060207367,,Optimization failed with status code 9
+51,1,15,5,decomp,optimal,44.16646361351013,138.333232413932,
+52,1,15,6,direct,error,1200.0307133197784,,Optimization failed with status code 9
+53,1,15,6,decomp,optimal,73.20538377761841,204.97673758724193,
+54,1,15,7,direct,error,1200.006816148758,,Optimization failed with status code 9
+55,1,15,7,decomp,optimal,40.71212387084961,245.85131398777781,
+56,1,15,8,direct,error,1200.0165638923645,,Optimization failed with status code 9
+57,1,15,8,decomp,optimal,140.82667422294617,81.68624790079042,
+58,1,15,9,direct,error,1200.0602116584778,,Optimization failed with status code 9
+59,1,15,9,decomp,optimal,96.73215556144714,89.66955306516255,
+60,1,20,0,direct,error,1200.0293235778809,,Optimization failed with status code 9
+61,1,20,0,decomp,optimal,113.90441346168518,124.60647465438286,
+62,1,20,1,direct,error,1200.0231711864471,,Optimization failed with status code 9
+63,1,20,1,decomp,optimal,215.4253692626953,109.20619730425786,
+64,1,20,2,direct,error,1200.0088682174683,,Optimization failed with status code 9
+65,1,20,2,decomp,optimal,315.8399736881256,106.55724310751019,
+66,1,20,3,direct,error,1200.0431475639343,,Optimization failed with status code 9
+67,1,20,3,decomp,optimal,182.51183438301086,106.66781609619993,
+68,1,20,4,direct,error,1200.014771938324,,Optimization failed with status code 9
+69,1,20,4,decomp,optimal,130.01175689697266,92.62993482162203,
+70,1,20,5,direct,error,1200.0699608325958,,Optimization failed with status code 9
+71,1,20,5,decomp,optimal,539.9980070590973,196.50839485021646,
+72,1,20,6,direct,error,1200.0809078216553,,Optimization failed with status code 9
+73,1,20,6,decomp,optimal,796.36669921875,144.8744418879219,
+74,1,20,7,direct,error,1200.0486903190613,,Optimization failed with status code 9
+75,1,20,7,decomp,optimal,571.6614892482758,129.39175499493072,
+76,1,20,8,direct,error,1200.0444836616516,,Optimization failed with status code 9
+77,1,20,8,decomp,optimal,66.61873316764832,118.87742216417242,
+78,1,20,9,direct,error,1200.0072803497314,,Optimization failed with status code 9
+79,1,20,9,decomp,optimal,87.94512581825256,108.60541005926542,
+80,2,5,0,direct,error,1200.0188932418823,,Optimization failed with status code 9
+81,2,5,0,decomp,optimal,4.49091362953186,78.67038480144154,
+82,2,5,1,direct,error,1200.009382724762,,Optimization failed with status code 9
+83,2,5,1,decomp,optimal,4.884630918502808,90.42531574834432,
+84,2,5,2,direct,error,1200.0023596286774,,Optimization failed with status code 9
+85,2,5,2,decomp,optimal,3.6799533367156982,74.05395391883356,
+86,2,5,3,direct,error,1200.230010509491,,Optimization failed with status code 9
+87,2,5,3,decomp,optimal,3.6113438606262207,169.90880377330154,
+88,2,5,4,direct,error,1200.0136549472809,,Optimization failed with status code 9
+89,2,5,4,decomp,optimal,4.841337203979492,233.89701687680912,
+90,2,5,5,direct,error,1200.014984846115,,Optimization failed with status code 9
+91,2,5,5,decomp,optimal,4.04565954208374,158.60348514340478,
+92,2,5,6,direct,error,1200.0141716003418,,Optimization failed with status code 9
+93,2,5,6,decomp,optimal,4.109379768371582,207.30470467996074,
+94,2,5,7,direct,error,1200.0011014938354,,Optimization failed with status code 9
+95,2,5,7,decomp,optimal,4.085333347320557,77.57042938274694,
+96,2,5,8,direct,error,1200.0028066635132,,Optimization failed with status code 9
+97,2,5,8,decomp,optimal,3.5413851737976074,203.8733816553853,
+98,2,5,9,direct,error,1200.0073137283325,,Optimization failed with status code 9
+99,2,5,9,decomp,optimal,3.9388365745544434,147.5204764292201,
+100,2,10,0,direct,error,1200.0403468608856,,Optimization failed with status code 9
+101,2,10,0,decomp,optimal,46.48932456970215,185.05822908256005,
+102,2,10,1,direct,error,1200.0306749343872,,Optimization failed with status code 9
+103,2,10,1,decomp,optimal,36.12022948265076,192.41665049982217,
+104,2,10,2,direct,unbounded,7.516581296920776,,Problem is unbounded
+105,2,10,2,decomp,optimal,60.59499430656433,123.46248708842278,
+106,2,10,3,direct,error,1200.0305082798004,,Optimization failed with status code 9
+107,2,10,3,decomp,optimal,99.75146794319153,139.8440077938998,
+108,2,10,4,direct,error,1200.0193729400635,,Optimization failed with status code 9
+109,2,10,4,decomp,optimal,179.02961134910583,187.11622777041526,
+110,2,10,5,direct,error,1200.0497074127197,,Optimization failed with status code 9
+111,2,10,5,decomp,optimal,119.24581027030945,154.39083988418935,
+112,2,10,6,direct,error,1200.040598154068,,Optimization failed with status code 9
+113,2,10,6,decomp,optimal,142.8735945224762,62.070311082926125,
+114,2,10,7,direct,unbounded,14.403542757034302,,Problem is unbounded
+115,2,10,7,decomp,optimal,114.90147185325623,162.22881577839541,
+116,2,10,8,direct,error,1200.046290397644,,Optimization failed with status code 9
+117,2,10,8,decomp,optimal,297.8709580898285,120.5467621577994,
+118,2,10,9,direct,error,1200.0460877418518,,Optimization failed with status code 9
+119,2,10,9,decomp,optimal,100.55974817276001,110.13953640350312,
+120,2,15,0,direct,error,1200.196645975113,,Optimization failed with status code 9
+121,2,15,0,decomp,error,1243.1022548675537,,Optimization failed with status code 9
+122,2,15,1,direct,error,1200.0201532840729,,Optimization failed with status code 9
+123,2,15,1,decomp,optimal,2328.3895659446716,131.4734470223521,
+124,2,15,2,direct,error,1200.0661959648132,,Optimization failed with status code 9
+125,2,15,2,decomp,optimal,908.1104612350464,118.16035807706491,
+126,2,15,3,direct,error,1200.0339682102203,,Optimization failed with status code 9
+127,2,15,3,decomp,optimal,111.60538601875305,106.99372577187734,
+128,2,15,4,direct,error,1200.0364980697632,,Optimization failed with status code 9
+129,2,15,4,decomp,optimal,11.815273523330688,141.34055196549946,
+130,2,15,5,direct,error,1200.0491008758545,,Optimization failed with status code 9
+131,2,15,5,decomp,optimal,449.70696926116943,124.02854754937137,
+132,2,15,6,direct,error,1200.0328423976898,,Optimization failed with status code 9
+133,2,15,6,decomp,optimal,193.78199100494385,232.55070677956766,
+134,2,15,7,direct,error,1200.0202233791351,,Optimization failed with status code 9
+135,2,15,7,decomp,optimal,579.9206387996674,51.572366870185945,
+136,2,15,8,direct,error,1200.0415422916412,,Optimization failed with status code 9
+137,2,15,8,decomp,optimal,874.3482146263123,104.14731036851194,
+138,2,15,9,direct,error,1200.0110602378845,,Optimization failed with status code 9
+139,2,15,9,decomp,optimal,1164.5065717697144,113.45645080052631,
+140,2,20,0,direct,error,1200.036845445633,,Optimization failed with status code 9
+141,2,20,0,decomp,optimal,9900.166332006454,118.64758468985593,
+142,2,20,1,direct,error,1200.757028579712,,Optimization failed with status code 9
+143,2,20,1,decomp,optimal,2338.737764120102,160.2872891596768,
+144,2,20,2,direct,error,1200.0360667705536,,Optimization failed with status code 9
+145,2,20,2,decomp,optimal,2504.71014046669,121.50203851071956,
+146,2,20,3,direct,error,1200.0298619270325,,Optimization failed with status code 9
+147,2,20,3,decomp,optimal,233.02773714065552,107.44048715354161,
+148,2,20,4,direct,error,1200.018729686737,,Optimization failed with status code 9
+149,2,20,4,decomp,optimal,4892.471974849701,96.8285907276677,
+150,2,20,5,direct,error,1200.0945546627045,,Optimization failed with status code 9
+151,2,20,5,decomp,optimal,4119.413583755493,181.83555587617798,
+152,2,20,6,direct,error,1200.0547153949738,,Optimization failed with status code 9
+153,2,20,6,decomp,optimal,804.7876400947571,112.73919438316815,
+154,2,20,7,direct,error,1200.0444130897522,,Optimization failed with status code 9
+155,2,20,7,decomp,error,1376.7262816429138,,Optimization failed with status code 9
+156,2,20,8,direct,error,1200.7168967723846,,Optimization failed with status code 9
+157,2,20,8,decomp,optimal,1559.4331336021423,120.19517701662366,
+158,2,20,9,direct,error,1200.3269062042236,,Optimization failed with status code 9
+159,2,20,9,decomp,optimal,8158.139108419418,107.8789552147959,
