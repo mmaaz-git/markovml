@@ -9,7 +9,7 @@ It is built on top of [Gurobi](https://www.gurobi.com/). Gurobi is typically a c
 
 ## Installation
 
-The package is in the `markovml/` directory. You can simply add it to your Python path and import it or put it in your project directory.
+The package is in the `markovml/` directory. You can simply add it to your Python path and import it or put it in your project directory. The only hard dependency is `gurobipy==12.0.0`.
 
 ## Documentation
 
