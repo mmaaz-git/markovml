@@ -9,7 +9,7 @@ It is built on top of [Gurobi](https://www.gurobi.com/). Gurobi is typically a c
 
 ## Installation
 
-The package is in the `markovml/` directory. You can simply add it to your Python path and import it or put it in your project directory. The only hard dependency is `gurobipy==12.0.0`.
+The package is in the `markovml/` directory. You can simply add it to your Python path and import it or put it in your project directory. It requires `gurobipy==12.0.0` and `gurobi-machinelearning==1.5.1`. Depending on which ML models you want to use, you also need `scikit-learn` and/or `torch`.
 
 ## Documentation
 
